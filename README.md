@@ -1,4 +1,4 @@
-# Hi, I'm Zubair! 👋
+# Hi, I'm Zub1Wun / ZuIs84! 👋
 
 I am a passionate ..... driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
