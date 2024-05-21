@@ -11,9 +11,10 @@ I am a passionate ..... driven by a curiosity for technology and a love for writ
 - 🌐 Proud member of the ... [...](https://....com/), ....
 - ✍️ Content Writer at [...](https://www....org/), ...
 
+<!--
 ## My Articles
 - [Empty](EmptyUrl)
-
+-->
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]()
@@ -35,7 +36,8 @@ I am a passionate ..... driven by a curiosity for technology and a love for writ
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/Zub1Wun)
-- Read more of my articles on [.....dev](https://...dev)
+- Discord [Discord](zub1wun)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/zubairislam84/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
