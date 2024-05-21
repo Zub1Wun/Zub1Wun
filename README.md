@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something in the near future...
 - 📫 How to reach me, you can hit me up on LinkedIn: https://www.linkedin.com/in/zubairislam84/ or Discord : zub1wun ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]()
 
 <!---
 ZuIs84/ZuIs84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
