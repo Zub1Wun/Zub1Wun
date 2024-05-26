@@ -22,7 +22,7 @@ I am a passionate ..... driven by a curiosity for technology and a love for writ
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Going through Angela Yu's [The Complete 2024 Web Development Bootcamp] (https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
