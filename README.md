@@ -22,11 +22,14 @@ I am a passionate ..... driven by a curiosity for technology and a love for writ
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Going through Angela Yu's [The Complete 2024 Web Development Bootcamp] (https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Going through Angela Yu's [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
+  - Also going through Noel Leon's [100Devs](https://leonnoel.com/100devs/), currently going through Cohort 2 recordings.
+  - The above go through HTML5, CSS, Javascript, Bootstrap, Node.js, etc.
+
+- 🚀 Continuing studying Python
+  - recently graduated from HyperionDev/CoGrammar 16-week bootcamp
+  - working thorugh Angela Yu's 100 Days of Code Python course on Udemy
+  - Harvard University's CS50P Introduction to Python
 
  ## 🏆 Achievements
 
