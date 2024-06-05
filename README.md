@@ -41,6 +41,7 @@ I am a passionate ..... driven by a curiosity for technology and a love for writ
 - Connect with me on [Twitter](https://twitter.com/Zub1Wun)
 - Discord [Discord](https://discordapp.com/users/zub1wun)
 - LinkedIn [LinkedIn](https://www.linkedin.com/in/zubairislam84/)
+- LinkTree [LinkTree](https://linktr.ee/zub1wun?subscribe)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
