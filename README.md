@@ -6,9 +6,38 @@ Python Software Engineer and Web Developer
 
 * 🌍  I'm based in Hampshire, England
 * 🖥️  See my portfolio at [GitHub](http://github.com/ZuIs84)
-* 🧠  I'm learning Python, HTML5, CSS & JavaScript
+* 🧠  I'm currently learning Python, HTML5, CSS & JavaScript
+*   - Going through Angela Yu's [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
+  - Also going through Noel Leon's [100Devs](https://leonnoel.com/100devs/), currently going through Cohort 2 recordings.
+* 🔭  I'm currently completing a #100DaysOfCode challenge which I am keeping a daily log at: [#100DaysOfCode challenge log](https://github.com/ZuIs84/100-days-of-code/blob/master/log.md)
 * 🤝  I'm open to collaborating on Python projects, such as those that are part of any course or challenge you may be doing.
 * ⚡  Please visit my LinkTree http://linktr.ee/zub1wun for more info
+
+   ## 🏆 Achievements
+- 🌟 Completed HyperionDev/CoGrammar Python Software Engineering bootcamp 2024.
+
+* ## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+
+  - The above go through HTML5, CSS, Javascript, Bootstrap, Node.js, etc.
+
+- 🚀 Continuing studying Python
+  - recently graduated from HyperionDev/CoGrammar 16-week bootcamp
+  - working thorugh Angela Yu's 100 Days of Code Python course on Udemy
+  - Harvard University's CS50P Introduction to Python
+
+
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/Zub1Wun)
+- Discord [Discord](https://discordapp.com/users/zub1wun)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/zubairislam84/)
+- LinkTree [LinkTree](https://linktr.ee/zub1wun?subscribe)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <a href="https://www.github.com/ZuIs84" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ZuIs84?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Zub1Wun" target="_blank" rel="noreferrer"><img
@@ -49,17 +78,19 @@ src="https://img.shields.io/twitter/follow/Zub1Wun?logo=twitter&style=for-the-ba
 
 ![ZuIs84's Stats](https://github-readme-stats.vercel.app/api?username=ZuIs84&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<!--
+
 ## 🚀 About Me
 
-- 🔭 I'm currently completing a [#100DaysOfCode challenge](https://github.com/ZuIs84/100-days-of-code/blob/master/log.md) <<click to see daily log<<
+- 
 - 📝 I'm yet to write in-depth, long-form articles on my website [something.dev](https://something.dev), ....
 - 🌐 Proud member of the ... [...](https://....com/), ....
 - ✍️ Content Writer at [...](https://www....org/), ...
 
-<!--
+
 ## My Articles
 - [Empty](EmptyUrl)
--->
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)]()
@@ -91,7 +122,7 @@ src="https://img.shields.io/twitter/follow/Zub1Wun?logo=twitter&style=for-the-ba
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
-
+-->
 <!--
 
 Here are some ideas to get you started:
