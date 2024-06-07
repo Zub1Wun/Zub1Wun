@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zub1Wun (Zubair Islam)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Zub1Wun / ZuIs84! 👋
 ==============================================================================================================================================
 
 Python Software Engineer and Web Developer
@@ -9,10 +9,6 @@ Python Software Engineer and Web Developer
 *   🧠  I'm learning Python, HTML5, CSS & JavaScript
 *   🤝  I'm open to collaborating on Python projects, such as those that are part of any course or challenge you may be doing.
 *   ⚡  Please visit my LinkTree http://linktr.ee/zub1wun for more info
-
-# Hi, I'm Zub1Wun / ZuIs84! 👋
-
-I am a passionate ..... driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![ZuIs84's Stats](https://github-readme-stats.vercel.app/api?username=ZuIs84&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
