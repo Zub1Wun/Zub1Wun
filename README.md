@@ -5,7 +5,7 @@ Python Software Engineer and Web Developer
 ------------------------------------------
 
 * 🌍  I'm based in Hampshire, England
-* 🖥️  See my portfolio at [GitHub](http://github.com/ZuIs84)
+* 🖥️  See my portfolio at [GitHub](http://github.com/Zub1Wun)
 * 🧠  I'm currently learning Python, HTML5, CSS & JavaScript
 *   - Going through Angela Yu's [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy
   - Also going through Noel Leon's [100Devs](https://leonnoel.com/100devs/), currently going through Cohort 2 recordings.
