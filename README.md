@@ -27,7 +27,7 @@ Python Software Engineer and Web Developer
   - working thorugh Angela Yu's 100 Days of Code Python course on Udemy
   - Harvard University's CS50P Introduction to Python
 
-
+<a href="https://data.typeracer.com/pit/profile?user=zub1wun&universe=play&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=zub1wun" border="0" alt="TypeRacer.com scorecard for user zub1wun"/></a>
 
 
 ## 📬 Get in Touch
